@@ -4,6 +4,6 @@
 - Camacho García Julia Guadalupe  
 - García Mayorga Brayan Jair  
 - Luna Alvarado Josué Daniel  
-- Ramírez Vázquez Wendy Itzel  
+- Ramirez Vazquez Wendy Itzel  
 - Martínez Delgado Rolando  
-- Carreón Rivera Oscar
+- Carreon Rivera Oscar
